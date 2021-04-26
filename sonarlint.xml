@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.boost.open.global" />
+          <token>df9adf9bdfc8df93dfcedf99df9bdf99dfcfdf9fdf99dfc8df9bdf99dfcbdf9adf92dfcedf9adf9ddfcfdf9edf9edf9adf9adfccdf99df9fdf98dfc8df9adf93df9adf9cdf92df9ddf98df9bdfcfdfcc</token>
+          <option name="name" value="Boost" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
