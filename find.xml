@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*-api.json" />
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
@@ -11,5 +12,6 @@
     <mask>*providers*</mask>
     <mask>pom.xml</mask>
     <mask>*test.properties</mask>
+    <mask>*-api.json</mask>
   </component>
 </application>
