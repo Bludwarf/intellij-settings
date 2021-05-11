@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-providers\rudi-microservice-providers-facade\src\main\java\org\rudi\microservice\providers\facade\controller\ProvidersController.java [rudi-microservice-providers-facade]'" />
+    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-providers\rudi-microservice-providers-facade\src\main\java\org\rudi\microservice\providers\facade\controller\ProvidersController.java [rudi-microservice-providers-facade]'" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-providers\rudi-microservice-providers-facade\src\main\java\org\rudi\microservice\providers\facade\controller\ProvidersController.java [rudi-microservice-providers-facade]'" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
     <mask>*.md</mask>
@@ -12,7 +13,7 @@
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
-    <mask>*.java</mask>
     <mask>*ServiceImpl.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
