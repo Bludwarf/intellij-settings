@@ -8,12 +8,12 @@
     <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*providers*</mask>
-    <mask>pom.xml</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
     <mask>*ServiceImpl.java</mask>
-    <mask>*.java</mask>
     <mask>*.j2</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
