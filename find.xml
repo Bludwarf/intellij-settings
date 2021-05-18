@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.properties</mask>
     <mask>*.md</mask>
     <mask>*.yml</mask>
@@ -15,7 +16,7 @@
     <mask>*ServiceImpl.java</mask>
     <mask>*.j2</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*Test.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
