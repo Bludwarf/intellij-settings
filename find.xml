@@ -18,5 +18,6 @@
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
