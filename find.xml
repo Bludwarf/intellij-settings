@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\integration\impl\IntegrationRequestServiceImplTest.java [rudi-microservice-kalim-service]'" />
+    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\integration\impl\IntegrationRequestServiceImplTest.java [rudi-microservice-kalim-service]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\integration\impl\IntegrationRequestServiceImplTest.java [rudi-microservice-kalim-service]'" />
     <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*providers*</mask>
