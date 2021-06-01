@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.md</mask>
     <mask>*.yml</mask>
     <mask>*providers*</mask>
@@ -17,5 +17,6 @@
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
