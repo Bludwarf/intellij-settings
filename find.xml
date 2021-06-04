@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\rudi-facet\rudi-facet-dataverse\src\main\java\org\rudi\facet\dataverse\fields\generators\AbstractDatasetMetadataBlockElementGenerator.java [rudi-facet-dataverse]'" />
+    <option name="defaultScopeName" value="File '...\rudi-facet\rudi-facet-dataverse\src\main\java\org\rudi\facet\dataverse\fields\generators\AbstractDatasetMetadataBlockElementGenerator.java [rudi-facet-dataverse]'" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-facet\rudi-facet-dataverse\src\main\java\org\rudi\facet\dataverse\fields\generators\AbstractDatasetMetadataBlockElementGenerator.java [rudi-facet-dataverse]'" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
