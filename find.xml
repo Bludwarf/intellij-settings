@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rudi-facet\rudi-facet-kaccess\src\main\java\org\rudi\facet\kaccess\helper\dataset\metadatablock\mapper\RudiMetadataBlockMapper.java [rudi-facet-kaccess]'" />
-    <option name="defaultScopeName" value="File '...\rudi-facet\rudi-facet-kaccess\src\main\java\org\rudi\facet\kaccess\helper\dataset\metadatablock\mapper\RudiMetadataBlockMapper.java [rudi-facet-kaccess]'" />
-    <option name="SEARCH_SCOPE" value="File '...\rudi-facet\rudi-facet-kaccess\src\main\java\org\rudi\facet\kaccess\helper\dataset\metadatablock\mapper\RudiMetadataBlockMapper.java [rudi-facet-kaccess]'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
