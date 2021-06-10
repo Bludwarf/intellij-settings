@@ -15,9 +15,9 @@
     <mask>*Test.java</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
-    <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.properties</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
