@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-acl\rudi-microservice-acl-facade\src\main\java\org\rudi\microservice\acl\facade\config\security\oauth2\AuthenticationServerConfig.java [rudi-microservice-acl-facade]'" />
+    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-acl\rudi-microservice-acl-facade\src\main\java\org\rudi\microservice\acl\facade\config\security\oauth2\AuthenticationServerConfig.java [rudi-microservice-acl-facade]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-acl\rudi-microservice-acl-facade\src\main\java\org\rudi\microservice\acl\facade\config\security\oauth2\AuthenticationServerConfig.java [rudi-microservice-acl-facade]'" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
