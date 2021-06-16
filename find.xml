@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
@@ -17,9 +17,9 @@
     <mask>*Test.java</mask>
     <mask>*.html</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
