@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ansible\install-rudi.yml [rudi-parent]'" />
-    <option name="defaultScopeName" value="File '...\ansible\install-rudi.yml [rudi-parent]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\ansible\install-rudi.yml [rudi-parent]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
