@@ -1,0 +1,9 @@
+<templateSet group="RUDI">
+  <template name="subject" value="private readonly $subjectName$ = new Subject&lt;$type$&gt;()&#10;readonly $subjectName$$ = this.$subjectName$.asObservable()" description="RUDI : Create a private subject and the corresponding public observable" toReformat="true" toShortenFQNames="true">
+    <variable name="subjectName" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
