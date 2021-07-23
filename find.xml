@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rudi-application\rudi-application-front-office\angular-project\src\app\core\data-sets\data-sets.component.ts [rudi-application-front-office]'" />
-    <option name="defaultScopeName" value="File '...\rudi-application\rudi-application-front-office\angular-project\src\app\core\data-sets\data-sets.component.ts [rudi-application-front-office]'" />
-    <option name="SEARCH_SCOPE" value="File '...\rudi-application\rudi-application-front-office\angular-project\src\app\core\data-sets\data-sets.component.ts [rudi-application-front-office]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
