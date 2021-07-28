@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <yaml>
-    <option name="INDENT_SEQUENCE_VALUE" value="false" />
-  </yaml>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
