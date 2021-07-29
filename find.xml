@@ -17,9 +17,9 @@
     <mask>*.ts</mask>
     <mask>*.properties</mask>
     <mask>*.*css</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>pom.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
