@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.*css" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
@@ -18,10 +19,10 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
-    <mask>*.*css</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
+    <mask>*.*css</mask>
   </component>
 </application>
