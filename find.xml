@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
@@ -15,11 +16,11 @@
     <mask>*.mustache</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.*css</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
