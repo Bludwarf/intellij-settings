@@ -1,9 +1,16 @@
 <templateSet group="RUDI">
-  <template name="subject" value="private readonly $subjectName$ = new Subject&lt;$type$&gt;();&#10;readonly $subjectName$$: Observable&lt;$type$&gt; = this.$subjectName$.asObservable();" description="RUDI : Create a private subject and the corresponding public observable" toReformat="true" toShortenFQNames="true">
+  <template name="subject" value="private readonly $subjectName$ = new Subject&lt;$type$&gt;();&#10;readonly $subjectName$$: Observable&lt;$type$&gt; = this.$subjectName$.asObservable();" description="Create a private subject and the corresponding public observable" toReformat="true" toShortenFQNames="true">
     <variable name="subjectName" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="logvar" value="console.log('$var$', $var$);" description="Log variable to the console" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
