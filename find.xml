@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-konsult\rudi-microservice-konsult-service\src\test\java\org\rudi\microservice\konsult\service\metadata\MetadataServiceTest.java [rudi-microservice-konsult-service]'" />
-    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-konsult\rudi-microservice-konsult-service\src\test\java\org\rudi\microservice\konsult\service\metadata\MetadataServiceTest.java [rudi-microservice-konsult-service]'" />
-    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-konsult\rudi-microservice-konsult-service\src\test\java\org\rudi\microservice\konsult\service\metadata\MetadataServiceTest.java [rudi-microservice-konsult-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
