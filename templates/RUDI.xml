@@ -13,4 +13,15 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="extendWithMockito" value="@org.junit.jupiter.api.extension.ExtendWith(org.mockito.junit.jupiter.MockitoExtension.class)" description="Add @ExtendWith annotation for Mockito Unit Test" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="assertThat" value="assertThat($END$)" description="AssertJ assertThat" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
