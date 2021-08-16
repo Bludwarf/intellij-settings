@@ -19,8 +19,8 @@
     <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
-    <mask>*Test*.java</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
+    <mask>*Test*.java</mask>
   </component>
 </application>
