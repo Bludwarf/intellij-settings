@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\rudi-facet\rudi-facet-providers\src\main\java\org\rudi\facet\providers\helper\ProviderHelper.java [rudi-facet-providers]'" />
+    <option name="defaultScopeName" value="File '...\rudi-facet\rudi-facet-providers\src\main\java\org\rudi\facet\providers\helper\ProviderHelper.java [rudi-facet-providers]'" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-facet\rudi-facet-providers\src\main\java\org\rudi\facet\providers\helper\ProviderHelper.java [rudi-facet-providers]'" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
