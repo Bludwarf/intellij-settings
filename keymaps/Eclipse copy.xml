@@ -27,6 +27,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Print" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
