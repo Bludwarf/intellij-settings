@@ -20,7 +20,7 @@
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*Test*.java</mask>
-    <mask>*.json</mask>
     <mask>pom.xml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
