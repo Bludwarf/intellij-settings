@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*DaoImpl.java" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
@@ -25,5 +26,6 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>pom.xml</mask>
+    <mask>*DaoImpl.java</mask>
   </component>
 </application>
