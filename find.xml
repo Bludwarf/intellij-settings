@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Recently Viewed Files" />
     <option name="defaultScopeName" value="Recently Viewed Files" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Recently Viewed Files" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
@@ -23,5 +24,6 @@
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*Entity.java</mask>
   </component>
 </application>
