@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\Error304Builder.java [rudi-microservice-kalim-service]'" />
+    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\Error304Builder.java [rudi-microservice-kalim-service]'" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\Error304Builder.java [rudi-microservice-kalim-service]'" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
