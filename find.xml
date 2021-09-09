@@ -23,7 +23,7 @@
     <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
-    <mask>pom.xml</mask>
     <mask>*.json</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
