@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\ExistingGlobalIdValidator.java [rudi-microservice-kalim-service]'" />
-    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\ExistingGlobalIdValidator.java [rudi-microservice-kalim-service]'" />
-    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\main\java\org\rudi\microservice\kalim\service\integration\impl\validator\ExistingGlobalIdValidator.java [rudi-microservice-kalim-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
