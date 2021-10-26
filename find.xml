@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -17,7 +18,6 @@
     <mask>*Entity.java</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.md</mask>
     <mask>*.json</mask>
@@ -25,5 +25,6 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
