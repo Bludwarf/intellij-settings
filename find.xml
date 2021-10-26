@@ -20,10 +20,10 @@
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*Entity.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
