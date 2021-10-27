@@ -20,11 +20,11 @@
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*.yml</mask>
     <mask>*Entity.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*-DEV*</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
