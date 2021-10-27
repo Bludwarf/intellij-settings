@@ -19,12 +19,12 @@
     <mask>*.md</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*Entity.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*-DEV*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
