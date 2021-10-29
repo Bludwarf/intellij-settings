@@ -1,17 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*ServiceImpl.java" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
-    <mask>*ServiceImpl.java</mask>
     <mask>*.j2</mask>
     <mask>*Test.java</mask>
     <mask>*.mustache</mask>
@@ -30,5 +28,6 @@
     <mask>*-DEV*</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*ServiceImpl.java</mask>
   </component>
 </application>
