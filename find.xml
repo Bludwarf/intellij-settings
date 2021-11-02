@@ -5,12 +5,12 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
     <mask>*.j2</mask>
-    <mask>*Test.java</mask>
     <mask>*.mustache</mask>
     <mask>*.*css</mask>
     <mask>*.ts</mask>
@@ -30,5 +30,6 @@
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*ServiceImpl*</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
