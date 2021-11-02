@@ -29,5 +29,6 @@
     <mask>*model.yml</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*ServiceImpl*</mask>
   </component>
 </application>
