@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -18,16 +19,16 @@
     <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
     <mask>*.md</mask>
-    <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*Entity.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*-DEV*</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*model.yml</mask>
+    <mask>*.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
