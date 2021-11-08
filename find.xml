@@ -21,7 +21,6 @@
     <mask>*.properties</mask>
     <mask>*Entity.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*-DEV*</mask>
     <mask>*.java</mask>
     <mask>*ServiceImpl.java</mask>
@@ -31,5 +30,6 @@
     <mask>*ServiceImpl*</mask>
     <mask>*Test.java</mask>
     <mask>*tsv*</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
