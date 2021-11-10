@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -18,7 +19,6 @@
     <mask>*.scss</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
-    <mask>*.properties</mask>
     <mask>*Entity.java</mask>
     <mask>pom.xml</mask>
     <mask>*-DEV*</mask>
@@ -31,5 +31,6 @@
     <mask>*Test.java</mask>
     <mask>*tsv*</mask>
     <mask>*.sql</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
