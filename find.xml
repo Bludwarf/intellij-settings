@@ -24,7 +24,6 @@
     <mask>pom.xml</mask>
     <mask>*-DEV*</mask>
     <mask>*.java</mask>
-    <mask>*ServiceImpl.java</mask>
     <mask>*model.yml</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*tsv*</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
+    <mask>*ServiceImpl.java</mask>
   </component>
 </application>
