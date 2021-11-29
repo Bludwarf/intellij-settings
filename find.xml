@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -12,7 +13,6 @@
     <mask>*.j2</mask>
     <mask>*.mustache</mask>
     <mask>*.*css</mask>
-    <mask>*.ts</mask>
     <mask>*Test*.java</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
@@ -31,5 +31,6 @@
     <mask>*.properties</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*.yml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
