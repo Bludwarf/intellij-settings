@@ -3,10 +3,9 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -26,12 +25,12 @@
     <mask>*.java</mask>
     <mask>*model.yml</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*ServiceImpl*</mask>
     <mask>*Test.java</mask>
     <mask>*tsv*</mask>
     <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*ServiceImpl.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
