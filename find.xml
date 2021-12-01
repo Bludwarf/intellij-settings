@@ -26,10 +26,10 @@
     <mask>*ServiceImpl*</mask>
     <mask>*Test.java</mask>
     <mask>*tsv*</mask>
-    <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*.yml</mask>
     <mask>*.ts</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
