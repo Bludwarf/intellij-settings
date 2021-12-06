@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="RUDI-30/1399 Erreurs 404 vers le backend transformées en erreurs 401" />
+    <option name="FILE_MASK" value="*css" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -31,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
+    <mask>*css</mask>
   </component>
 </application>
