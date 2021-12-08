@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RUDI-30/1399 Erreurs 404 vers le backend transformées en erreurs 401" />
-    <option name="defaultScopeName" value="RUDI-30/1399 Erreurs 404 vers le backend transformées en erreurs 401" />
-    <option name="SEARCH_SCOPE" value="RUDI-30/1399 Erreurs 404 vers le backend transformées en erreurs 401" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
