@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="RUDI-775 : Corrections MR" />
+    <option name="defaultScopeName" value="RUDI-775 : Corrections MR" />
+    <option name="SEARCH_SCOPE" value="RUDI-775 : Corrections MR" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
