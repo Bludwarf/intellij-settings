@@ -43,5 +43,6 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
+  <action id="ViewNavigationBar" />
   <action id="XDebugger.AttachToProcess" />
 </keymap>
