@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="group_vars" type="AUTO_DETECTED" />
       <mapping pattern="vars" type="AUTO_DETECTED" />
+      <mapping pattern="posix-character-classes-adapter" type="AUTO_DETECTED" />
       <mapping pattern="mvnw" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
