@@ -3,13 +3,13 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.*css" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
     <mask>*.j2</mask>
     <mask>*.mustache</mask>
-    <mask>*.*css</mask>
     <mask>*Test*.java</mask>
     <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
@@ -33,5 +33,6 @@
     <mask>*.sql</mask>
     <mask>fr.json</mask>
     <mask>*Api.java</mask>
+    <mask>*.*css</mask>
   </component>
 </application>
