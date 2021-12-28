@@ -15,7 +15,6 @@
     <mask>*.md</mask>
     <mask>*.html</mask>
     <mask>*Entity.java</mask>
-    <mask>pom.xml</mask>
     <mask>*-DEV*</mask>
     <mask>*.java</mask>
     <mask>*model.yml</mask>
@@ -33,5 +32,6 @@
     <mask>fr.json</mask>
     <mask>*Api.java</mask>
     <mask>*.*css</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
