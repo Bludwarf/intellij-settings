@@ -3,6 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -16,7 +17,6 @@
     <mask>*.html</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
-    <mask>*.java</mask>
     <mask>*model.yml</mask>
     <mask>*.json</mask>
     <mask>*ServiceImpl*</mask>
@@ -33,5 +33,6 @@
     <mask>*Api.java</mask>
     <mask>*.*css</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
