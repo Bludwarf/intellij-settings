@@ -1,6 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="ctrl alt cancel" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
@@ -42,6 +43,7 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="SonarLint.AnalyzeFiles" />
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
@@ -50,4 +52,5 @@
   </action>
   <action id="ViewNavigationBar" />
   <action id="XDebugger.AttachToProcess" />
+  <action id="com.dubreuia.core.action.ShortcutAction" />
 </keymap>
