@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*providers*</mask>
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
@@ -19,7 +20,6 @@
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
-    <mask>*Test.java</mask>
     <mask>*tsv*</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.j2</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
