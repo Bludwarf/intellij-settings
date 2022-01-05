@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*providers*</mask>
+    <option name="FILE_MASK" value="*Impl*.java" />
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
@@ -35,5 +35,6 @@
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*Test.java</mask>
+    <mask>*Impl*.java</mask>
   </component>
 </application>
