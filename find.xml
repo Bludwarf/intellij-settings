@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RUDI-1297 : Adapter le microservice template suite à la création du microservice projekt" />
-    <option name="defaultScopeName" value="RUDI-1297 : Adapter le microservice template suite à la création du microservice projekt" />
-    <option name="SEARCH_SCOPE" value="RUDI-1297 : Adapter le microservice template suite à la création du microservice projekt" />
+    <option name="customScope" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\helper\apim\APIManagerHelperTest.java [rudi-microservice-kalim-service]'" />
+    <option name="defaultScopeName" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\helper\apim\APIManagerHelperTest.java [rudi-microservice-kalim-service]'" />
+    <option name="SEARCH_SCOPE" value="File '...\rudi-microservice\rudi-microservice-kalim\rudi-microservice-kalim-service\src\test\java\org\rudi\microservice\kalim\service\helper\apim\APIManagerHelperTest.java [rudi-microservice-kalim-service]'" />
     <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
