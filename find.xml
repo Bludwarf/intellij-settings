@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*test.properties</mask>
     <mask>*-api.json</mask>
     <mask>*Controller.java</mask>
     <mask>*.mustache</mask>
@@ -33,5 +32,6 @@
     <mask>*.json</mask>
     <mask>*Test.java</mask>
     <mask>*Impl*.java</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
