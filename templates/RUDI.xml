@@ -30,7 +30,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="defaultvalue" value="[ -z &quot;$$$var$&quot; ] &amp;&amp; $var$=&quot;$value$&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="defaultvalue" value="[ -z &quot;$$$var$&quot; ] &amp;&amp; $var$=&quot;$value$&quot;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
