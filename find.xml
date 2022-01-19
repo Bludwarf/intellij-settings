@@ -6,7 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*-exemple.properties" />
-    <mask>*DaoImpl.java</mask>
     <mask>*.scss</mask>
     <mask>*.md</mask>
     <mask>*.html</mask>
@@ -35,6 +34,7 @@
     <mask>*-exemple.*</mask>
     <mask>*-test</mask>
     <mask>*-test.properties</mask>
+    <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
   </component>
 </application>
