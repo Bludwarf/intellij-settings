@@ -26,12 +26,12 @@
     <mask>*.json</mask>
     <mask>*Test.java</mask>
     <mask>*Impl*.java</mask>
-    <mask>*.prop*</mask>
     <mask>*-exemple.*</mask>
     <mask>*-test</mask>
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
     <mask>*.html</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
