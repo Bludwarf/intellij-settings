@@ -3,7 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <mask>*.scss</mask>
+    <option name="FILE_MASK" value="*Entity.*" />
     <mask>*.md</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
@@ -33,5 +33,6 @@
     <mask>*-exemple.properties</mask>
     <mask>*.html</mask>
     <mask>*.prop*</mask>
+    <mask>*Entity.*</mask>
   </component>
 </application>
