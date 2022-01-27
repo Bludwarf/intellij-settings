@@ -3,7 +3,6 @@
     <option name="customScope" value="Ménage pom.xml" />
     <option name="defaultScopeName" value="Ménage pom.xml" />
     <option name="SEARCH_SCOPE" value="Ménage pom.xml" />
-    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.md</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
