@@ -92,6 +92,50 @@
           </tables>
         </metrics_layout>
       </profile>
+      <profile name="Martin packaging metrics">
+        <metrics_layout>
+          <tables>
+            <table category="Method">
+              <table_layout />
+            </table>
+            <table category="Class">
+              <table_layout />
+            </table>
+            <table category="Interface">
+              <table_layout />
+            </table>
+            <table category="Package">
+              <table_layout sort_column="4" ascending="false">
+                <column_order>
+                  <c>package</c>
+                  <c>A</c>
+                  <c>Ca</c>
+                  <c>Ce</c>
+                  <c>I</c>
+                  <c>D</c>
+                </column_order>
+                <column_widths>
+                  <w>361</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                  <w>75</w>
+                </column_widths>
+              </table_layout>
+            </table>
+            <table category="Module">
+              <table_layout />
+            </table>
+            <table category="FileType">
+              <table_layout />
+            </table>
+            <table category="Project">
+              <table_layout />
+            </table>
+          </tables>
+        </metrics_layout>
+      </profile>
     </layout>
   </component>
 </application>
