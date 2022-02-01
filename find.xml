@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="RUDI-1687 : Erreur si user inconnu" />
     <option name="defaultScopeName" value="RUDI-1687 : Erreur si user inconnu" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="RUDI-1687 : Erreur si user inconnu" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.md</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
@@ -31,7 +34,7 @@
     <mask>*.html</mask>
     <mask>*.prop*</mask>
     <mask>*Entity.*</mask>
-    <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
