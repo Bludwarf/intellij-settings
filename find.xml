@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="RUDI-1687 : Erreur si user inconnu" />
-    <option name="FILE_MASK" value="*.sql" />
     <mask>*.md</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
