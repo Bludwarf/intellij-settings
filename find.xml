@@ -22,7 +22,6 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.j2</mask>
-    <mask>*.json</mask>
     <mask>*Test.java</mask>
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
@@ -35,5 +34,6 @@
     <mask>*Entity.*</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.json</mask>
   </component>
 </application>
