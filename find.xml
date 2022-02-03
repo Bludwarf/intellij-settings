@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="RUDI-1687 : Erreur si user inconnu" />
-    <option name="defaultScopeName" value="RUDI-1687 : Erreur si user inconnu" />
-    <option name="SEARCH_SCOPE" value="RUDI-1687 : Erreur si user inconnu" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
