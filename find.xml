@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="RUDI-1687 : Erreur si user inconnu" />
     <option name="defaultScopeName" value="RUDI-1687 : Erreur si user inconnu" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="RUDI-1687 : Erreur si user inconnu" />
-    <option name="FILE_MASK" value="*.sql" />
-    <mask>*.md</mask>
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
@@ -36,5 +32,6 @@
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
+    <mask>*Mapper.java</mask>
   </component>
 </application>
