@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.prop*" />
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
@@ -29,11 +30,11 @@
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
     <mask>*.html</mask>
-    <mask>*.prop*</mask>
     <mask>*Entity.*</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*Mapper.java</mask>
+    <mask>*.prop*</mask>
   </component>
 </application>
