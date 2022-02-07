@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <option name="defaultScopeName" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <mask>*Entity.java</mask>
     <mask>*-DEV*</mask>
