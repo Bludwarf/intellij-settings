@@ -16,7 +16,6 @@
     <mask>fr.json</mask>
     <mask>*Api.java</mask>
     <mask>*.*css</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.j2</mask>
     <mask>*Test.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.sql</mask>
     <mask>*Mapper.java</mask>
     <mask>*.prop*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
