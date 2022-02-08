@@ -3,7 +3,7 @@
     <option name="customScope" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <option name="defaultScopeName" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <option name="SEARCH_SCOPE" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
-    <mask>*Entity.java</mask>
+    <option name="FILE_MASK" value="*j2*" />
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
@@ -33,5 +33,6 @@
     <mask>*Mapper.java</mask>
     <mask>*.prop*</mask>
     <mask>*.java</mask>
+    <mask>*j2*</mask>
   </component>
 </application>
