@@ -3,7 +3,6 @@
     <option name="customScope" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <option name="defaultScopeName" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
     <option name="SEARCH_SCOPE" value="RUDI-1692 : Adaptation du contrôle ManagerProcessor" />
-    <option name="FILE_MASK" value="*j2*" />
     <mask>*-DEV*</mask>
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
