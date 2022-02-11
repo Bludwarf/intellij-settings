@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="Print" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
@@ -53,4 +56,7 @@
   <action id="ViewNavigationBar" />
   <action id="XDebugger.AttachToProcess" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="context.load">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
 </keymap>
