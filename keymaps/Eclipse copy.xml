@@ -18,6 +18,9 @@
   <action id="Console.DbmsOutput">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="Console.TableResult.Reload">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl multiply" />
