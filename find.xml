@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
     <mask>*tsv*</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*.yml</mask>
-    <mask>*.ts</mask>
     <mask>*css</mask>
     <mask>*json</mask>
     <mask>fr.json</mask>
@@ -32,7 +31,8 @@
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>*.sql</mask>
+    <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
