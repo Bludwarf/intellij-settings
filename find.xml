@@ -29,9 +29,9 @@
     <mask>*.java</mask>
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
-    <mask>*.html</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
