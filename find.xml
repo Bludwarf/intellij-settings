@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
@@ -25,7 +23,6 @@
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
-    <mask>*.html</mask>
     <mask>*Entity.*</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
@@ -35,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
+    <mask>*.html</mask>
   </component>
 </application>
