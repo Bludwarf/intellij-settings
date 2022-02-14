@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
     <mask>*tsv*</mask>
@@ -25,13 +26,13 @@
     <mask>*-exemple.properties</mask>
     <mask>*Entity.*</mask>
     <mask>pom.xml</mask>
-    <mask>*.json</mask>
-    <mask>*.sql</mask>
     <mask>*Mapper.java</mask>
     <mask>*.prop*</mask>
     <mask>*.java</mask>
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
