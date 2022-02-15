@@ -21,6 +21,9 @@
   <action id="Console.TableResult.Reload">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Console.TableResult.Transpose">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="ctrl multiply" />
