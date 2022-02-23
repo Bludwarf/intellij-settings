@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
     <mask>*tsv*</mask>
@@ -30,8 +31,8 @@
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
