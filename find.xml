@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Default" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*model.yml</mask>
     <mask>*ServiceImpl*</mask>
     <mask>*tsv*</mask>
@@ -34,7 +34,7 @@
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
