@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ServiceImpl*</mask>
+    <option name="FILE_MASK" value="*.json" />
     <mask>*tsv*</mask>
     <mask>*ServiceImpl.java</mask>
     <mask>*.yml</mask>
@@ -32,6 +32,7 @@
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*rout*</mask>
     <mask>*.json</mask>
   </component>
 </application>
