@@ -14,6 +14,7 @@
       <mapping ext="19" type="PLAIN_TEXT" />
       <mapping ext="rpt" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="bpmn2d" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
