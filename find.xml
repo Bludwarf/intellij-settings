@@ -26,12 +26,12 @@
     <mask>*.sql</mask>
     <mask>*rout*</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
     <mask>*.sh</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
