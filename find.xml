@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*ServiceImpl.java</mask>
     <mask>*css</mask>
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*Api.java</mask>
     <mask>*.*css</mask>
-    <mask>*.properties</mask>
     <mask>*.j2</mask>
     <mask>*Test.java</mask>
     <mask>*Impl*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
