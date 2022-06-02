@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*ServiceImpl.java</mask>
     <mask>*css</mask>
     <mask>*json</mask>
@@ -28,12 +29,12 @@
     <mask>*.scss</mask>
     <mask>*.sh</mask>
     <mask>*.ts</mask>
-    <mask>*.json</mask>
     <mask>*Api.java</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
