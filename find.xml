@@ -34,8 +34,8 @@
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*api*.json</mask>
+    <mask>*.json</mask>
   </component>
 </application>
