@@ -34,8 +34,8 @@
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
