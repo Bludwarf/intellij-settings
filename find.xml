@@ -10,7 +10,6 @@
     <mask>fr.json</mask>
     <mask>*.*css</mask>
     <mask>*.j2</mask>
-    <mask>*Test.java</mask>
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
     <mask>*-test</mask>
@@ -35,5 +34,6 @@
     <mask>*.properties</mask>
     <mask>*api*.json</mask>
     <mask>*.json</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
