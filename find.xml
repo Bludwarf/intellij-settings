@@ -4,11 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*css</mask>
     <mask>*json</mask>
     <mask>fr.json</mask>
@@ -33,11 +32,11 @@
     <mask>*Api.java</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*api*.json</mask>
     <mask>*.json</mask>
     <mask>*Test.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
