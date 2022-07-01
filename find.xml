@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*css</mask>
+    <option name="FILE_MASK" value="*-dev.prop*" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
+    <mask>*-dev.prop*</mask>
   </component>
 </application>
