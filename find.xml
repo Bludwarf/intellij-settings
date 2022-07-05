@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -30,10 +31,10 @@
     <mask>*api*.json</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*-dev.prop*</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
