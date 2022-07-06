@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -22,7 +23,6 @@
     <mask>*.prop*</mask>
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
-    <mask>*.sql</mask>
     <mask>*rout*</mask>
     <mask>*.scss</mask>
     <mask>*.sh</mask>
@@ -35,7 +35,8 @@
     <mask>*-dev.prop*</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.sql</mask>
+    <mask>*.json</mask>
   </component>
 </application>
