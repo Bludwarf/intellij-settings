@@ -15,6 +15,7 @@
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="ansible" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="19" type="PLAIN_TEXT" />
       <mapping ext="rpt" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
