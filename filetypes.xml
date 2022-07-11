@@ -17,6 +17,7 @@
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="19" type="PLAIN_TEXT" />
+      <mapping ext="crypt" type="PLAIN_TEXT" />
       <mapping ext="rpt" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="bpmn2d" type="PLAIN_TEXT" />
