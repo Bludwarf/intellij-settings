@@ -3,7 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -29,10 +29,10 @@
     <mask>*-dev.prop*</mask>
     <mask>*.ts</mask>
     <mask>*.sql</mask>
-    <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
