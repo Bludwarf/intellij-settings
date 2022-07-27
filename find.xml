@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="Default" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*.json" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
