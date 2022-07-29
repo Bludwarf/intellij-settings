@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="local" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -26,12 +29,12 @@
     <mask>*Test.java</mask>
     <mask>*-dev.prop*</mask>
     <mask>*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
+    <mask>*.json</mask>
     <mask>*.yml</mask>
   </component>
 </application>
