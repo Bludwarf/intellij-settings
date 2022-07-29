@@ -3,6 +3,7 @@
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
     <option name="SEARCH_SCOPE" value="local" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -31,7 +32,7 @@
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
