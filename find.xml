@@ -3,7 +3,7 @@
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
     <option name="SEARCH_SCOPE" value="local" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*json</mask>
     <mask>fr.json</mask>
     <mask>*.*css</mask>
@@ -24,15 +24,15 @@
     <mask>*Api.java</mask>
     <mask>*.html</mask>
     <mask>*api*.json</mask>
-    <mask>*Test.java</mask>
     <mask>*-dev.prop*</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*Test.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
