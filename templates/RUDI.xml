@@ -37,7 +37,7 @@
       <option name="SHELL_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="mock" value="final $class$ $var$ = org.mockito.Mockito.mock($class$.class);" description="Mockito when" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mock" value="final var $var$ = org.mockito.Mockito.mock($class$.class);" description="Mockito when" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="class" expression="" defaultValue="Object" alwaysStopAt="true" />
     <variable name="var" expression="lowercaseAndDash($class$)" defaultValue="mock" alwaysStopAt="true" />
     <context>
