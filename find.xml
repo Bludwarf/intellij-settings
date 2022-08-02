@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="local" />
-    <option name="FILE_MASK" value="*.json" />
-    <mask>*json</mask>
+    <option name="FILE_MASK" value="*projekt*.properties*" />
     <mask>fr.json</mask>
     <mask>*.*css</mask>
     <mask>*.j2</mask>
@@ -32,9 +31,10 @@
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.yml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.properties</mask>
+    <mask>*.yml</mask>
+    <mask>*projekt*.properties*</mask>
   </component>
 </application>
