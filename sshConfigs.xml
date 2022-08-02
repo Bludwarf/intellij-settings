@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="rudi.open-ovh.com" id="74799e53-3f0a-4a56-824f-1da30de2db6e" port="3522" nameFormat="DESCRIPTIVE" username="mla20849" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
