@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="local" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="local" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>fr.json</mask>
     <mask>*.*css</mask>
     <mask>*.j2</mask>
@@ -32,8 +33,8 @@
     <mask>*Test.java</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
-    <mask>*.yml</mask>
     <mask>*projekt*.properties*</mask>
     <mask>*.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
