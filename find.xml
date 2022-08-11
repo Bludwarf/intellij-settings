@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Selected files" />
-    <option name="defaultScopeName" value="Selected files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected files" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.*css</mask>
     <mask>*.j2</mask>
     <mask>*Impl*.java</mask>
@@ -29,7 +30,6 @@
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
-    <mask>*Test.java</mask>
     <mask>*.json</mask>
     <mask>*projekt*.properties*</mask>
     <mask>*.java</mask>
@@ -37,5 +37,6 @@
     <mask>*model*.json</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
