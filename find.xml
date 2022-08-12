@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.*css</mask>
     <mask>*.j2</mask>
     <mask>*Impl*.java</mask>
@@ -22,10 +23,8 @@
     <mask>*.html</mask>
     <mask>*api*.json</mask>
     <mask>*-dev.prop*</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>pom.xml</mask>
-    <mask>*.json</mask>
     <mask>*projekt*.properties*</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
@@ -33,5 +32,7 @@
     <mask>*.sql</mask>
     <mask>*Test.java</mask>
     <mask>*.properties</mask>
+    <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
