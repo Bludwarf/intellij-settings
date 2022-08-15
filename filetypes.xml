@@ -6,6 +6,7 @@
       <mapping pattern="vars" type="AUTO_DETECTED" />
       <mapping pattern="group_vars" type="AUTO_DETECTED" />
       <mapping pattern="posix-character-classes-adapter" type="AUTO_DETECTED" />
+      <mapping pattern="game-state-with-tables-with-items" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="history" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
