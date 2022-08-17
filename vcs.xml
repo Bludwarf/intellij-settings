@@ -10,6 +10,10 @@
           <option name="url" value="https://gitlab.tech.orange/piloti/opti-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.tech.orange" />
+          <option name="userName" value="ad\GFPQ4684" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\MLA20849\Projets\Piloti\git" />
