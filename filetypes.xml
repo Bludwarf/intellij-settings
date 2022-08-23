@@ -2,21 +2,21 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="mvnw" type="AUTO_DETECTED" />
-      <mapping pattern="CustomReuseStrategy" type="AUTO_DETECTED" />
       <mapping pattern="vars" type="AUTO_DETECTED" />
-      <mapping pattern="game-1" type="AUTO_DETECTED" />
       <mapping pattern="group_vars" type="AUTO_DETECTED" />
       <mapping pattern="posix-character-classes-adapter" type="AUTO_DETECTED" />
-      <mapping pattern="game-state-with-tables-with-items" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
       <mapping pattern="history" type="AUTO_DETECTED" />
+      <mapping pattern="CustomReuseStrategy" type="AUTO_DETECTED" />
+      <mapping pattern="game-1" type="AUTO_DETECTED" />
+      <mapping pattern="game-state-with-tables-with-items" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="ansible" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
+      <mapping pattern="ansible" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="19" type="PLAIN_TEXT" />
       <mapping ext="crypt" type="PLAIN_TEXT" />
@@ -27,7 +27,6 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="managed-schema" type="XML" />
-      <mapping ext="bpmn" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
