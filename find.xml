@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
@@ -26,16 +25,17 @@
     <mask>*api*.json</mask>
     <mask>*-dev.prop*</mask>
     <mask>*.scss</mask>
-    <mask>pom.xml</mask>
     <mask>*projekt*.properties*</mask>
-    <mask>*.java</mask>
     <mask>*model*.json</mask>
-    <mask>*.sql</mask>
     <mask>*Test.java</mask>
     <mask>*.properties</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
+    <mask>*model.json</mask>
+    <mask>*.sql</mask>
+    <mask>*.json</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
