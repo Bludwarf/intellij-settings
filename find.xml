@@ -32,8 +32,8 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*model.json</mask>
-    <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.json</mask>
   </component>
 </application>
