@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.j2</mask>
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
@@ -31,10 +31,10 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*model.json</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
   </component>
 </application>
