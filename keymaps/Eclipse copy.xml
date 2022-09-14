@@ -55,6 +55,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
