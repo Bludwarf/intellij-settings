@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Changes" />
-    <option name="defaultScopeName" value="Changes" />
-    <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.j2</mask>
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
@@ -26,12 +29,12 @@
     <mask>*Test.java</mask>
     <mask>*.properties</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*model.json</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
