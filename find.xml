@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.j2</mask>
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
     <mask>*-test</mask>
@@ -31,7 +31,8 @@
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*.json</mask>
+    <mask>rudi*.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
