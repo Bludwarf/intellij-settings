@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
     <mask>*Impl*.java</mask>
     <mask>*-exemple.*</mask>
     <mask>*-test</mask>
@@ -29,10 +28,10 @@
     <mask>*model.json</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>rudi*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
