@@ -21,7 +21,6 @@
     <mask>*projekt*.properties*</mask>
     <mask>*model*.json</mask>
     <mask>*Test.java</mask>
-    <mask>*.properties</mask>
     <mask>*model.json</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
@@ -33,5 +32,6 @@
     <mask>*.j2</mask>
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
