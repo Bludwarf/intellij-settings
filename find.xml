@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*-exemple.*</mask>
+    <option name="FILE_MASK" value="*.properties*" />
     <mask>*-test</mask>
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
@@ -35,5 +35,6 @@
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.properties*</mask>
   </component>
 </application>
