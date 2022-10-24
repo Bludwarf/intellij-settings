@@ -28,10 +28,10 @@
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
     <mask>*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.properties*</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
