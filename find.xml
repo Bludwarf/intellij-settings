@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.properties" />
     <mask>*-test</mask>
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
@@ -27,7 +24,6 @@
     <mask>*Test.java</mask>
     <mask>*model.json</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>rudi*.json</mask>
     <mask>*.j2</mask>
     <mask>*.ts</mask>
@@ -38,5 +34,6 @@
     <mask>*.yml</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
