@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
@@ -28,12 +29,12 @@
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
     <mask>*.properties*</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>Dockerfile</mask>
+    <mask>*.java</mask>
   </component>
 </application>
