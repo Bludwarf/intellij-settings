@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*-exemple.*</mask>
-    <mask>*-test</mask>
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
@@ -23,17 +21,19 @@
     <mask>*projekt*.properties*</mask>
     <mask>*model*.json</mask>
     <mask>*Test.java</mask>
-    <mask>*.properties</mask>
     <mask>*model.json</mask>
-    <mask>pom.xml</mask>
     <mask>*.html</mask>
-    <mask>*.sql</mask>
-    <mask>*.json</mask>
     <mask>rudi*.json</mask>
-    <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.j2</mask>
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
+    <mask>*.properties*</mask>
+    <mask>*.sql</mask>
+    <mask>pom.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.json</mask>
+    <mask>*.yml</mask>
+    <mask>Dockerfile</mask>
+    <mask>*.java</mask>
   </component>
 </application>
