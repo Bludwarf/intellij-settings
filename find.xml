@@ -24,7 +24,6 @@
     <mask>*model.json</mask>
     <mask>*.html</mask>
     <mask>rudi*.json</mask>
-    <mask>*.j2</mask>
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
     <mask>*.properties*</mask>
@@ -35,5 +34,6 @@
     <mask>*.yml</mask>
     <mask>Dockerfile</mask>
     <mask>*.java</mask>
+    <mask>*.j2</mask>
   </component>
 </application>
