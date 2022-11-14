@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
@@ -31,11 +32,11 @@
     <mask>*.properties*</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>Dockerfile</mask>
     <mask>*.j2</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
