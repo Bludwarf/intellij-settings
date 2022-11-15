@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*-test.properties</mask>
     <mask>*ignore*</mask>
     <mask>*-exemple.properties</mask>
@@ -33,7 +34,7 @@
     <mask>Dockerfile</mask>
     <mask>*.j2</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
