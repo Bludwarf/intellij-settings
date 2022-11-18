@@ -36,6 +36,7 @@
       <mapping pattern="*.xml.j2" type="XML" />
       <mapping pattern="managed-schema" type="XML" />
       <mapping pattern="*.yml.j2" type="YAML" />
+      <mapping ext="envsubst" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
