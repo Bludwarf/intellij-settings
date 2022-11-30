@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*ignore*</mask>
+    <option name="FILE_MASK" value="*.sh*" />
     <mask>*-exemple.properties</mask>
     <mask>*Entity.*</mask>
     <mask>*Mapper.java</mask>
@@ -13,7 +13,6 @@
     <mask>*j2*</mask>
     <mask>*projekt*</mask>
     <mask>*rout*</mask>
-    <mask>*.sh</mask>
     <mask>*api*.json</mask>
     <mask>*-dev.prop*</mask>
     <mask>*.scss</mask>
@@ -35,5 +34,7 @@
     <mask>*.json</mask>
     <mask>*.j2</mask>
     <mask>*-test.properties</mask>
+    <mask>*.sh</mask>
+    <mask>*.sh*</mask>
   </component>
 </application>
