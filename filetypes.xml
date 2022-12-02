@@ -13,22 +13,22 @@
       <mapping ext="key" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile.j2" type="Dockerfile" />
       <mapping ext="jag" type="JavaScript" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern="ansible" type="PLAIN_TEXT" />
       <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
-      <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="19" type="PLAIN_TEXT" />
-      <mapping ext="crypt" type="PLAIN_TEXT" />
-      <mapping ext="rpt" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="bpmn2d" type="PLAIN_TEXT" />
+      <mapping ext="crypt" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping ext="rpt" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping pattern="*.sql.j2" type="SQL" />
       <mapping pattern="*.sh.j2" type="Shell Script" />
