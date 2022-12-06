@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*-exemple.properties</mask>
     <mask>*Entity.*</mask>
     <mask>*Mapper.java</mask>
@@ -22,7 +23,6 @@
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
     <mask>*.properties*</mask>
-    <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>Dockerfile</mask>
@@ -33,5 +33,6 @@
     <mask>*-test.properties</mask>
     <mask>*.sh</mask>
     <mask>*.sh*</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
