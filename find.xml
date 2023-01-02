@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*-exemple.properties</mask>
     <mask>*Entity.*</mask>
     <mask>*Mapper.java</mask>
@@ -22,7 +23,6 @@
     <mask>*.ts</mask>
     <mask>*Api.java</mask>
     <mask>*.properties*</mask>
-    <mask>pom.xml</mask>
     <mask>*.yml</mask>
     <mask>Dockerfile</mask>
     <mask>*.java</mask>
@@ -34,5 +34,6 @@
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
